@@ -29,7 +29,7 @@ form.addEventListener('submit',function(e){
         msg=`Please enter a valid number`;
     }
     else if (num==n){
-        msg=`Congatulations u guess the correct number`;
+        msg=`Congatulations !!! U guessed the correct number`;
         c=0
         
     }else if (num>n){
