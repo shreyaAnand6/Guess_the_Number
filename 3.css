@@ -1,4 +1,5 @@
 body{
+    font-size: 120%;
     background-color:rgb(51, 51, 82);
     color: rgb(175, 209, 238);
     display: flex;
