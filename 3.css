@@ -26,6 +26,7 @@ h1{
 }
 button{
     background-color: rgb(150, 182, 210);
+    cursor: pointer;
 }
 #res{
     color: rgba(183, 222, 43, 0.696);
